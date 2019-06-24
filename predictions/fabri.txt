@@ -1,0 +1,1 @@
+2019.06.24 - 14:16:47: por cada grupo, avg. de los tiempos entre cada registro con xgboost.
